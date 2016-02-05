@@ -1,0 +1,4 @@
+vswitch,VLANname,VLANid
+vSwitch0,portgroup_LDN,222
+vSwitch0,portgroup_NYC,223
+vSwitch0,portgroup_WLG,224
